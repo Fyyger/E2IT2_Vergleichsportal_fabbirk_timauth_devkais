@@ -5,7 +5,7 @@ Laptops-Devin
 Tablets-Fabian
 
 
-02.10.2026
+02.10.2026 (Tim und Fabian)
 - Index.html erstellen, Grundstruktur hinzufügen
 
 - Andere Websites erstellt (Handys, Laptops, Tablets). Links auf den jeweiligen seiten eingefügt.
