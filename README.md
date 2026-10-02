@@ -1,4 +1,10 @@
 # E2IT2_Vergleichsportal_fabbirk_timauth_devkais
+Einteilung:
+Handys-Tim
+Laptops-Devin
+Tablets-Fabian
+
+
 02.10.2026
 - Index.html erstellen, Grundstruktur hinzufügen
 
