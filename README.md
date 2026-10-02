@@ -17,5 +17,8 @@ Tablets-Fabian
 
 Mögliche Funktionen:
 - Suchleiste
-- Slideshow auf Startseite von Produkten
+- Slideshow auf Startseite von Produkten#
+- Filter
+- Logo
+
 
