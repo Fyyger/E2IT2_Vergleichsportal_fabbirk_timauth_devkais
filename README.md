@@ -30,15 +30,15 @@ Tablets Änderungen:
 - Farbschema geändert
 - Navigationsleiste eingefügt und Formatiert
 - Seite in Abschnitte unterteilt
+- Pseudoelement für h2
 
-Samsung Galaxy:
+Produktseiten:
 - Header und Footer übernommen
 - 2 Tabellen hinzugefügt
     -> Technische Daten
     -> Preisvergleich
 - Text eingefügt
 - "Bester Preis" hervorgehoben
-- Pseudoelement für h2
 
 Handys Änderungen:
 -
