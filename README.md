@@ -18,17 +18,27 @@ Tablets-Fabian
 Tablets Änderungen:
 - Style_Tablet erstellt
 - Texte für Produkte angepasst und hinzugefügt
-- Footer ergänzt 
-- Formatierung der Überschriften, Text
-- Farben der Texte angepasst
+- Formatierung der Überschriften, Text, etc.
 - Tabelle Formatiert
-    -> Breite eingeschränkt, Tabelle zentriert, Farbliche Anpassung
-    -> Hover Effekt der Zeilen
+    -> Tabelle zentriert, Farbliche Anpassung, Border
+    -> Hover-Effekt der Zeilen
     -> Schattierung am Rand der Tabelle
     -> Bilder werden in einem Rahmen dargestellt
+    -> Bilder einheitlich groß
 - Produktseiten erstellt
 - Bild und Produktname als Link
-- Navigationsbuttons verschönert
+- Farbschema geändert
+- Navigationsleiste eingefügt und Formatiert
+- Seite in Abschnitte unterteilt
+
+Samsung Galaxy:
+- Header und Footer übernommen
+- 2 Tabellen hinzugefügt
+    -> Technische Daten
+    -> Preisvergleich
+- Text eingefügt
+- "Bester Preis" hervorgehoben
+- Pseudoelement für h2
 
 Handys Änderungen:
 -
