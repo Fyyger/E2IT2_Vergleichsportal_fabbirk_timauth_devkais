@@ -41,7 +41,16 @@ Produktseiten:
 - "Bester Preis" hervorgehoben
 
 Handys Änderungen:
--
+
+Handys.html überarbeitet
+Styling der html mit css
+seiten für jeweilige handys erstellt
+styling für handyseiten mit css
+schematische Anpassung der Handyseiten an Tablets
+verlinkung handys
+Tabellarische Ansicht bei Handyspeks
+
+
 
 Laptops Änderungen:
 -
@@ -51,7 +60,6 @@ Mögliche Funktionen:
 - Slideshow auf Startseite von Produkten#
 - Filter
 - Logo
-
 
 
 

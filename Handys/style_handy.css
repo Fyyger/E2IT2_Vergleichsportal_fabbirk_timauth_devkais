@@ -1,0 +1,240 @@
+/* Allgemeine Gestaltung */
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #F4F4F5;
+    color: #27272A;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #DC2626;
+    opacity: 0.25;
+    margin: 25px 0 15px 0;
+}
+
+section {
+    padding: 15px 28px;
+}
+
+
+header {
+    background-color: #FFFFFF;
+    padding: 24px;
+    border-radius: 14px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    margin: 18px 0;
+}
+
+
+footer {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 0;
+}
+
+
+#slogan {
+    text-align: center;
+    color: #DC2626;
+    font-style: italic;
+    margin-top: 0;
+}
+
+#bester_preis {
+    background-color: #DC2626;
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 0.75rem;
+    padding: 4px 8px;
+    margin-left: 8px;
+}
+
+.aktiv {
+    background-color: #DC2626;
+    color: #FFFFFF;
+}
+
+.bilder {
+    width: 240px;
+    height: 190px;
+    object-fit: contain;
+    border-radius: 10px;
+    display: block;
+}
+
+
+h2::before {
+    content: "";
+    border-left: 5px solid #DC2626;
+    margin-right: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    color: #18181B;
+    font-size: 2.6rem;
+    margin: 12px 0 8px 0;
+}
+
+h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #27272A;
+}
+
+h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #18181B;
+}
+
+
+table {
+    background-color: #FFFFFF;
+    width: 100%;
+    border-radius: 10px;
+    margin: 25px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
+}
+
+th {
+    background-color: #27272A;
+    color: #FFFFFF;
+    padding: 16px;
+    text-align: left;
+    font-size: 1.05rem;
+}
+
+td {
+    padding: 20px;
+    vertical-align: top;
+    border-bottom: 1px solid #E4E4E7;
+}
+
+tr:hover td {
+    background-color: #FEF2F2;
+}
+
+td img {
+    width: 240px;
+    height: 190px;
+    object-fit: contain;
+    border-radius: 10px;
+    display: block;
+}
+
+td h3 {
+    color: #DC2626;
+    margin: 0 0 10px 0;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin: 28px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 5px;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 10px 18px;
+    border: 2px solid #DC2626;
+    border-radius: 5px;
+    color: #27272A;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+nav ul li a:hover {
+    background-color: #DC2626;
+    color: #FFFFFF;
+}
+
+
+
+td a {
+    color: #B91C1C;
+    text-decoration: none;
+}
+
+td a:hover {
+    color: #DC2626;
+    text-decoration: underline;
+}
+
+
+section h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #18181B;
+}
+
+section nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
+section nav ul li {
+    display: inline-block;
+    margin: 5px;
+}
+
+section nav ul li a {
+    display: inline-block;
+    padding: 10px 18px;
+    border: 2px solid #DC2626;
+    border-radius: 5px;
+    color: #27272A;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+section nav ul li a:hover {
+    background-color: #DC2626;
+    color: #FFFFFF;
+}
+
+
+footer {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 25px;
+}
+
+footer p {
+    margin: 0;
+}
