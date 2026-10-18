@@ -1,0 +1,80 @@
+/* Allgemein */
+
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #F3F6FB;
+    color: #1F2937;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+b {
+    color: #1E3A8A;
+    font-size: 1.15rem;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #3B82F6;
+    opacity: 0.25;
+    margin: 40px 0;
+}
+
+
+/* Überschriften */
+
+h1 {
+    color: #1E3A8A;
+    font-size: 2.8rem;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #3B82F6;
+    font-size: 1.3rem;
+    font-weight: 500;
+    font-style: italic;
+    margin-top: 0;
+}
+
+
+/* Navigation */
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 40px 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 8px;
+}
+
+nav ul li a {
+    padding: 15px 30px;
+    background-color: #FFFFFF;
+    border: 2px solid #3B82F6;
+    color: #1E3A8A;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+nav ul li a:hover {
+    background-color: #3B82F6;
+    color: #FFFFFF;
+}
+
+
+
