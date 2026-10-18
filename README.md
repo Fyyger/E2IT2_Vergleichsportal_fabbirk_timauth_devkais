@@ -15,6 +15,9 @@ Tablets-Fabian
 
 
 17.10.2026
+Allgemein:
+-Index formatiert
+
 Tablets Änderungen:
 - Style_Tablet erstellt
 - Texte für Produkte angepasst und hinzugefügt
