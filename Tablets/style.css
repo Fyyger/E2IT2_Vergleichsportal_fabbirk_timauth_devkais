@@ -80,6 +80,25 @@ footer p{
     display: block;
 }
 
+td > .label{
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+
+.testsieger{
+    color: #1E3A8A;
+}
+
+.allrounder{
+    color: #3B82F6;
+}
+
+.preisleistung{
+    color: #16A34A;
+}
 
 /* Pseudoklassen */
 
@@ -120,7 +139,7 @@ table{
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-th {
+th{
     background-color: #1E3A8A;
     color: #FFFFFF;
     padding: 15px;
@@ -132,40 +151,40 @@ td{
     vertical-align: top;
     border-bottom: 1px solid #E0E7F3;
 }
-tr:hover td {
+tr:hover td{
     background-color: #EEF3FD;
 }
-td img {
+td img{
     width: 250px;
     height: 180px;
     object-fit: contain;
     border-radius: 8px;
     display: block;
 }
-td h3 {
+td h3{
     color: #3B82F6;
     margin: 0 0 10px 0;
 }
-tr:last-child td {
+tr:last-child td{
     border-bottom: none;
 }
 
 
 /* Navigation */
 
-nav ul {
+nav ul{
     list-style: none;           
     padding: 0;
     text-align: center;        
     margin: 30px 0;             
 }
 
-nav ul li {
+nav ul li{
     display: inline;            
     margin: 0 5px;              
 }
 
-nav ul li a {
+nav ul li a{
     padding: 10px 18px;
     border: 2px solid #3B82F6;
     color: #1E3A8A;
@@ -175,7 +194,7 @@ nav ul li a {
     font-weight: 600;
 }
 
-nav ul li a:hover {
+nav ul li a:hover{
     background-color: #3B82F6;
     color: #FFFFFF;
 }
@@ -183,12 +202,12 @@ nav ul li a:hover {
 
 /* Links */
 
-td a {
+td a{
     color: #1E3A8A;
     text-decoration: none;
 }
 
-td a:hover {
+td a:hover{
     color: #3B82F6;
     text-decoration: underline;
 }

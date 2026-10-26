@@ -58,6 +58,15 @@ Tabellarische Ansicht bei Handyspeks
 Laptops Änderungen:
 -
 
+
+31.10.26 Änderungen:
+
+Tablets:
+- Bei jedem Produkt einen Tipp hinzugefügt (allrounder, testsieger ...)
+- Tipps bestehen aus mehreren Klassen
+- Mit Kombinator gezielt formatiert
+
+
 Mögliche Funktionen:
 - Suchleiste
 - Slideshow auf Startseite von Produkten#
