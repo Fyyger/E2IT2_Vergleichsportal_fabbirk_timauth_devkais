@@ -66,6 +66,14 @@ Tablets:
 - Tipps bestehen aus mehreren Klassen
 - Mit Kombinator gezielt formatiert
 
+14.11.26 Änderungen:
+
+Tablets:
+- "Worauf achten beim Kauf" auf Startseite mit Grid überarbeitet
+- Vor- und Nachteile bei Produktseiten eingefügt (mit Flexbox nebeneinander)
+- alte Navigation mit Flexbox ersetzt 
+- Kundenbewertungen hinzugefügt mit Grid
+
 
 Mögliche Funktionen:
 - Suchleiste
